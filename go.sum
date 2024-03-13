@@ -6,10 +6,10 @@ github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220816024939-bc8df83d7b9d h1:0
 github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220816024939-bc8df83d7b9d/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
 github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=
 github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
-github.com/chaosblade-io/chaosblade-exec-os v1.7.3 h1:UForEOq5Hd6rgFEaRuLqchrUVTe8glgxByuOkiGhQ6c=
-github.com/chaosblade-io/chaosblade-exec-os v1.7.3/go.mod h1:1pYkjSIsSwzcgUy5a2E0foLP3SoXrY45gLKl0oTBs74=
-github.com/chaosblade-io/chaosblade-spec-go v1.7.3 h1:OhFFBCV4iNwOdKA7BPjtdSM5cJZrtZry7JBUyWEc83g=
-github.com/chaosblade-io/chaosblade-spec-go v1.7.3/go.mod h1:khF37h4B8tKfBlgqKGE/+2sWimvm+Mc1l3V8rY5rbOQ=
+github.com/lomoonmoonbird/chaosblade-exec-os v1.7.3 h1:UForEOq5Hd6rgFEaRuLqchrUVTe8glgxByuOkiGhQ6c=
+github.com/lomoonmoonbird/chaosblade-exec-os v1.7.3/go.mod h1:1pYkjSIsSwzcgUy5a2E0foLP3SoXrY45gLKl0oTBs74=
+github.com/lomoonmoonbird/chaosblade-spec-go v1.7.3 h1:OhFFBCV4iNwOdKA7BPjtdSM5cJZrtZry7JBUyWEc83g=
+github.com/lomoonmoonbird/chaosblade-spec-go v1.7.3/go.mod h1:khF37h4B8tKfBlgqKGE/+2sWimvm+Mc1l3V8rY5rbOQ=
 github.com/cilium/ebpf v0.4.0/go.mod h1:4tRaxcgiL706VnOzHOdBlY8IEAIdxINsQBcU4xJJXRs=
 github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b h1:mrRq0rkLJnQOfalr7EwNn1ULsMoyGvD+8kN+hxeNRms=
 github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b/go.mod h1:0SJrPIenamHDcZhEcJMNBB85rHcUsw4f25ZfBiPYRkU=

@@ -26,8 +26,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chaosblade-io/chaosblade-spec-go/spec"
-	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
 )
 
 // Copy nginx.conf to nginx config path and test it.
