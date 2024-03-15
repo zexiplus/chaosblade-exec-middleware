@@ -4,11 +4,11 @@ go 1.20
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220816024939-bc8df83d7b9d
-	github.com/lomoonmoonbird/chaosblade-exec-os master
-	github.com/lomoonmoonbird/chaosblade-spec-go master
 	github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c
+	github.com/lomoonmoonbird/chaosblade-exec-os v1.8.5
+	github.com/lomoonmoonbird/chaosblade-spec-go v1.8.5
 	golang.org/x/crypto v0.1.0
 )
 
@@ -33,4 +33,14 @@ require (
 	golang.org/x/term v0.1.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
+)
+
+replace (
+	github.com/lomoonmoonbird/chaosblade-spec-go => ../chaosblade-spec-go
+	github.com/lomoonmoonbird/chaosblade-spec-go v1.8.5 => ../chaosblade-spec-go
+)
+
+replace (
+	github.com/lomoonmoonbird/chaosblade-exec-os => ../chaosblade-exec-os
+	github.com/lomoonmoonbird/chaosblade-exec-os v1.8.5 => ../chaosblade-exec-os
 )
