@@ -1,4 +1,4 @@
-module github.com/lomoonmoonbird/chaosblade-exec-middleware
+module github.com/zexiplus/chaosblade-exec-middleware
 
 go 1.20
 
@@ -7,8 +7,8 @@ require (
 	github.com/containerd/cgroups v1.0.2-0.20210605143700-23b51209bf7b
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/howeyc/gopass v0.0.0-20190910152052-7cb4b85ec19c
-	github.com/lomoonmoonbird/chaosblade-exec-os v1.8.5
-	github.com/lomoonmoonbird/chaosblade-spec-go v1.8.5
+	github.com/zexiplus/chaosblade-exec-os v1.8.5
+	github.com/zexiplus/chaosblade-spec-go v1.8.5
 	golang.org/x/crypto v0.1.0
 )
 
@@ -36,9 +36,9 @@ require (
 )
 
 replace (
-	github.com/lomoonmoonbird/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
+	github.com/zexiplus/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
 )
 
 replace (
-	github.com/lomoonmoonbird/chaosblade-exec-os => /home/chaosblade/chaosblade-exec-os
+	github.com/zexiplus/chaosblade-exec-os => /home/chaosblade/chaosblade-exec-os
 )
