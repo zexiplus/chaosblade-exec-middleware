@@ -35,10 +35,6 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace (
-	github.com/zexiplus/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
-)
+replace github.com/zexiplus/chaosblade-spec-go => /home/chaosblade/chaosblade-spec-go
 
-replace (
-	github.com/zexiplus/chaosblade-exec-os => /home/chaosblade/chaosblade-exec-os
-)
+replace github.com/zexiplus/chaosblade-exec-os => /home/chaosblade/chaosblade-exec-os
