@@ -17,7 +17,7 @@
 package redis
 
 import (
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
 )
 
 type RedisCommandSpec struct {

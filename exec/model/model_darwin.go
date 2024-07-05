@@ -17,9 +17,9 @@
 package model
 
 import (
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/nginx"
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/redis"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/nginx"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/redis"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
 )
 
 // GetAllExpModels returns the experiment model specs in the project.

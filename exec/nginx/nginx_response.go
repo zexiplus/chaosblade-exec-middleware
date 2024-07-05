@@ -19,13 +19,13 @@ package nginx
 import (
 	"context"
 	"fmt"
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/category"
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/nginx/parser"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/log"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/category"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/nginx/parser"
+	"github.com/zexiplus/chaosblade-spec-go/log"
 	"strconv"
 	"strings"
 
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
 )
 
 const (

@@ -19,8 +19,8 @@ package nginx
 import (
 	"context"
 	"fmt"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/util"
 	"os"
 	"path/filepath"
 	"regexp"

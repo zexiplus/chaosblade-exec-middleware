@@ -20,12 +20,12 @@ import (
 	"log"
 	"os"
 
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/nginx"
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/redis"
-	"github.com/lomoonmoonbird/chaosblade-exec-os/exec/model"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/nginx"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/redis"
+	"github.com/zexiplus/chaosblade-exec-os/exec/model"
 
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/util"
 )
 
 // main creates the yaml file of the experiments in the project

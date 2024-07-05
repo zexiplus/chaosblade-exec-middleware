@@ -22,11 +22,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lomoonmoonbird/chaosblade-exec-middleware/exec/model"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/channel"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/log"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/util"
+	"github.com/zexiplus/chaosblade-exec-middleware/exec/model"
+	"github.com/zexiplus/chaosblade-spec-go/channel"
+	"github.com/zexiplus/chaosblade-spec-go/log"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/util"
 )
 
 var executors = model.GetAllMiddlewareExecutors()

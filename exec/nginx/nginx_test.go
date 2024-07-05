@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lomoonmoonbird/chaosblade-spec-go/channel"
-	"github.com/lomoonmoonbird/chaosblade-spec-go/spec"
+	"github.com/zexiplus/chaosblade-spec-go/channel"
+	"github.com/zexiplus/chaosblade-spec-go/spec"
 )
 
 type testFuncType func(context.Context, *testCase)
